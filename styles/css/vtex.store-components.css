@@ -5,6 +5,7 @@
     color: blac;
     border: 0px;
     padding: 0px;
+    font-weight: bold;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
@@ -19,7 +20,7 @@
     border: transparent;
 }
 
-.infoCardContainer-vintage {
+.infoCardContainer :vintage {
     background-color : #edcfd1;
 
  }
