@@ -12,16 +12,13 @@
     color: white;
     background-color: gray;
     border: transparent;
-    max-width: 1260px;
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color:white;
+    color:gray;
     background-color: blue;
     border: transparent;
-    max-width: 1260px;
 }
-
 .infoCardContainer--vintage {
     background-color : #edcfd1;
 
