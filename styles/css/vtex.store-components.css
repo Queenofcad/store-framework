@@ -15,9 +15,9 @@
     border: transparent;
 }
 
-.infoCardCallActionContainer :global(.vtex-link):hover {
-    color:blue;
-    background-color: white;
+.infoCardCallActionContainer :global(.vtex-button):hover {
+    color:white;
+    background-color: blue;
     border: transparent;
 }
 
@@ -26,5 +26,5 @@
 
  }
  .infoCardContainer--metal {
-    background-color : white,
+    background-color : #e1e1e1,
  }
