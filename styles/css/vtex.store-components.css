@@ -6,9 +6,11 @@
     border: 0px;
     padding: 0px;
     font-weight: bold;
-    max-width: 1260px;
+    
 }
-
+.infoCardImage {
+    max-width: 1260px;  
+}
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
