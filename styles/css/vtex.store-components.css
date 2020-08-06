@@ -6,10 +6,6 @@
     border: 0px;
     padding: 0px;
 }
-.infoCardSubHeadLine {
-
-}
-
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
@@ -17,6 +13,7 @@
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
+    color: gray;
     background-color: white;
     border: transparent;
 }
