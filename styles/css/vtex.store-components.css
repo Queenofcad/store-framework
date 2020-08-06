@@ -5,6 +5,7 @@
     color: black;
     border: 0px;
     padding: 0px;
+    max-width: 1260px;
 }
 
 .infoCardCallActionContainer :global(.vtex-button) {
