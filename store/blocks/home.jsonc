@@ -2,8 +2,7 @@
   "store.product": {
     "children": [
       "breadcrumb",
-      "flex-layout.row#main",
-      "product-price"
+      "flex-layout.row#main"
     ]
   }
 }
