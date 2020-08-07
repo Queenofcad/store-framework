@@ -48,12 +48,6 @@
       "showListPrice": false
     }
   },
-  
-  "shipping-simulator": {
-    "props": {
-      "skuID": "342"
-    }
-  },
 
   "flex-layout.row#qty-sku": {
     "children": [
