@@ -1,12 +1,8 @@
 {
-  " store.product " : {
-    " children " : [
+  "store.product": {
+    "children": [
       "breadcrumb",
-      " flex-layout.row # main ",
-      " product-name ",
-      " product-images ",
-      " product-price ",
-      "  buy-button "
-   ]
- }
+      "flex-layout.row#main"
+    ]
+  }
 }

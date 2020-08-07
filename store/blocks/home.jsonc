@@ -1,9 +1,6 @@
 {
   " flex-layout.row # main " : { 
-    " props " : { 
-      " marginTop " : 6
-   },
-   " children " : [
+    " children " : [
       " flex-layout.col # left " ,
       " flex-layout.col # right "
    ]
@@ -36,5 +33,5 @@
     "sku-selector",
     "product-quantity"
   ]
-},
+}
 }
