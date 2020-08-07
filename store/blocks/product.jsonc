@@ -2,7 +2,8 @@
   "store.product": {
     "children": [
       "breadcrumb",
-      "flex-layout.row#main"
+      "flex-layout.row#main",
+      "product-price"
     ]
   },
 
@@ -20,12 +21,6 @@
     " children " : [
       " product-images "
     ]
-  },
-
-  " product-images " : {
-    " props " : {
-      " displayTumbnailsArrows"  : true
-    }
   },
 
   " flex-layout.col # right " : {
