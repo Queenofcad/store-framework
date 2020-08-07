@@ -21,7 +21,7 @@
     ]
   },
 
-  " flex-layout.col#product-price" : {
+  " flex-layout.col#product-identifier.product" : {
   "children": [ 
     "product-price",
     "flex-layout.row#qty-sku"
