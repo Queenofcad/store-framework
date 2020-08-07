@@ -11,9 +11,30 @@
 
   " flex-layout.col # left " : {
     " children " : [
-      " product-images ",
+      " product-images "
+    ]
+  },
+
+  " flex-layout.col # right " : {
+    " children " : [
+      " product-name ",
+      " product-identifier.product ",
       " product-price ",
       "  buy-button "
     ]
-  }
+  },
+
+  " flex-layout.col#product-price" : {
+  "children": [ 
+    "product-price",
+    "flex-layout.row#qty-sku"
+  ]
+},
+
+"flex-layout.row#qty-sku": {
+  "children": [
+    "sku-selector",
+    "product-quantity"
+  ]
+},
 }
