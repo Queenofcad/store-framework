@@ -1,5 +1,9 @@
 {
-  "store.home": {
-    "blocks": []
+  "store.product": {
+    "children": [
+      "breadcrumb",
+      "flex-layout.row#main",
+      "product-price"
+    ]
   }
 }
