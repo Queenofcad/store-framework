@@ -52,6 +52,8 @@
   " product-price " : {
     " props " : {
       " displayTumbnailsArrows"  : true
+    }
+  },
 
   "sku-selector": {
     "props": {
