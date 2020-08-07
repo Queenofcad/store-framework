@@ -27,7 +27,7 @@
     }
   },
 
-  " flex-layout.col # right " : {
+  " flex-layout.col#right " : {
     " children " : [
       " product-name ",
       " product-identifier.product ",
