@@ -44,7 +44,8 @@
         ],
         "props": {
             "sticky": true ,
-            "inverted": true
+            "inverted": true,
+            "fullWidth": false
 
         }
     },
@@ -58,8 +59,7 @@
         ],
         "props": {
             "sticky": true,
-            "inverted": true,
-            "fullWidth": false
+            "inverted": true
         }
     },
      
