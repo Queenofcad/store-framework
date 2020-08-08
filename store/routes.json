@@ -4,6 +4,6 @@
     },
 
     "store.custom#landing": {
-        "path": "/search-landing"
+        "path": "/landing"
     }
 }
