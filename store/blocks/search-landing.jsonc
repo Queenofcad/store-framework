@@ -10,7 +10,7 @@
         "props": {
             "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
             "maxHeight": 24,
-            "minWidth": 100
+            "minWidth": "100%"
         }
     },
 
@@ -26,7 +26,8 @@
                 "orderByField": "OrderByScoreDESC",
                 "hideUnavailableItems": true,
                 "maxItemsDepartment": 8,
-                "queryField": "Blue Top Retro Camera"
+                "queryField": "Blue Top Retro Camera",
+                "mapField": "ft"
             }
         }
     }
