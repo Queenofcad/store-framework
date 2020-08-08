@@ -6,7 +6,8 @@
       "slider-layout#home",
       "shelf",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile"
+      "responsive-layout.mobile#mobile",
+      "flex-layout.row#about-us"
     ]
 
   },
