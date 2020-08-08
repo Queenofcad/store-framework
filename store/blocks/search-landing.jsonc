@@ -13,14 +13,8 @@
             "minWidth": "100%"
         }
     },
-
+    
     "search-result-layout.customQuery": {
-        "children": [
-            "search-result-layout.customQuery#home"  
-        ]
-    },
-
-    "search-result-layout.customQuery#home": {
         "props": {
             "querySchema": {
                 "orderByField": "OrderByScoreDESC",
