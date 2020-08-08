@@ -6,7 +6,8 @@
       "slider-layout#home",
       "shelf",
       "responsive-layout.desktop#desktop",
-      "responsive-layout.mobile#mobile"
+      "responsive-layout.mobile#mobile",
+      "search-result-layout.customQuery#home"
     ]
 
   },
@@ -135,6 +136,15 @@
         "url": "/small-appliances/coffee-makers"
       },
       "alt": "Coffee Makers Collection"
+    }
+  },
+
+  "search-result-layout.customQuery#home": {
+    "props": {
+      "querySchema": {
+        "skusFilter": "FIRST_AVAILABLE",
+        "simulationBehavior": "skip"
+      }
     }
   }
 }

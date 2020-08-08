@@ -1,0 +1,16 @@
+{
+    "store.custom#landing": { 
+        "blocks": [
+            "image#landingbanner", 
+            "search-result-layout.customQuery"
+        ]
+    },
+
+    "image#example": {
+        "props": {
+          "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+          "maxHeight": 24,
+          "minWidth": 100
+        }
+      }
+}
