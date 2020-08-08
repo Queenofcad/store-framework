@@ -87,8 +87,8 @@
 
     "rich-text#header": {
         "props": {
-            "text": " ** Frete grátis em pedidos acima de $ 50 ** " ,
-            "textPosition": " CENTER "
+            "text": "**Free Shipping on orders over $50**",
+            "textPosition": "CENTER"
         }
     }
 }
