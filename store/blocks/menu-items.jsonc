@@ -9,8 +9,7 @@
     }
   },
   "menu-item#small-appliances": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -20,8 +19,7 @@
     }
   },
   "menu-item#electronics": {
-      "props":
-    {
+      "props":{
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -31,8 +29,7 @@
     }
   },
   "menu-item#refrigerators": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -42,8 +39,7 @@
     }
   },
   "menu-item#ovens": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -53,8 +49,7 @@
     }
   },
   "menu-item#washers": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -64,8 +59,7 @@
     }
   },
   "menu-item#mixers": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -75,8 +69,7 @@
     }
   },
   "menu-item#toasters": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -86,8 +79,7 @@
     }
   },
   "menu-item#coffee": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -97,8 +89,7 @@
     }
   },
   "menu-item#tvs": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -108,8 +99,7 @@
     }
   },
   "menu-item#laptops": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
@@ -119,8 +109,7 @@
     }
   },
   "menu-item#cameras": {
-      "props":
-    {
+      "props": {
       "type": "category",
       "highlight": true,
       "itemProps": {
