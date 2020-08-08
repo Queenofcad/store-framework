@@ -8,9 +8,26 @@
 
     "image#example": {
         "props": {
-          "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-          "maxHeight": 24,
-          "minWidth": 100
+            "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
+            "maxHeight": 24,
+            "minWidth": 100
         }
-      }
+    },
+
+    "search-result-layout.customQuery": {
+        "children": [
+            "search-result-layout.customQuery#home"  
+        ]
+    },
+
+    "search-result-layout.customQuery#home": {
+        "props": {
+            "querySchema": {
+                "orderByField": "OrderByScoreDESC",
+                "hideUnavailableItems": true,
+                "maxItemsDepartment": 8,
+                "queryField": "Blue Top Retro Camera"
+            }
+        }
+    }
 }
