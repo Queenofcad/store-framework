@@ -39,6 +39,7 @@
         "children": [
             "logo",
             "header-spacer",
+            "search-bar",
             "minicart",
             "login" 
         ],
@@ -46,7 +47,6 @@
             "sticky": true ,
             "inverted": true,
             "fullWidth": false
-
         }
     },
 
@@ -72,11 +72,11 @@
         }
     },
 
-    " login " : {
-        " props " : {
-          " showIconProfile " : true ,
-          " iconLabel " : " Login "
-       }
+    "login": {
+        "props": {
+            "showIconProfile": true,
+            "iconLabel": "Login"
+        }
     },
      
     "logo": {
