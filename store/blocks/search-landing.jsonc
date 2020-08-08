@@ -9,12 +9,12 @@
     "image#example": {
         "props": {
             "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-            "maxHeight": 24,
             "minWidth": "100%"
         }
     },
     
     "search-result-layout.customQuery": {
+        "blocks": ["search-result-layout.desktop"],
         "props": {
             "querySchema": {
                 "orderByField": "OrderByScoreDESC",
