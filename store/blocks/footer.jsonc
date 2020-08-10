@@ -23,30 +23,29 @@
     },
 
     "flex-layout.col#footer-left-desktop": {
-        "children": [
-            "accepted-payment-methods"
-        ]
-    },
-
-    "accepted-payment-methods": {
-        "children": [
-            "MasterCard",
-            "Visa",
-            "Diners Club"
-        ]
-    },
-
-    "flex-layout.col#footer-right-desktop": {
-        "children": [
-            "social-networks"
-        ]
-    },
-
-    "social-networks": {
-        "children": [
-            "Facebook",
-            "Instagram",
-            "Twitter"
-        ]
-    }
+		"children": [
+			"accepted-payment-methods"
+		]
+	},
+	"accepted-payment-methods": {
+		"props": {
+			"paymentMethods": ["mastercard", "visa", "diners club"],
+			"showInColor": true
+		}
+	},
+	"flex-layout.col#footer-right-desktop": {
+		"children": [
+			"social-networks"
+		]
+	},
+	"social-networks": {
+		"props": {
+			"socialNetworks": [
+				{ "name": "Instagram"},
+				{ "name": "Facebook"},
+				{ "name": "Twitter"}
+			],
+			"showInColor": true
+		}
+	}
 }
